@@ -1,4 +1,4 @@
-# 🚀 Rocketseat Explorer - D2 - Fixing Bugs
+# 🚀 Rocketseat Explorer - D2 - Challenge: Fixing Bugs
 
 - This challenge was part of Rocketseat's Explorer program and made me fix a broken HTML and CSS code for a static website.
 
